@@ -1,2 +1,5 @@
 rootProject.name = 'video-catalog-administrator'
+include 'domain'
+include 'infrastructure'
+include 'application'
 
