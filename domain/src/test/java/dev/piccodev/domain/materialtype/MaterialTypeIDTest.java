@@ -1,6 +1,5 @@
 package dev.piccodev.domain.materialtype;
 
-import dev.piccodev.domain.materialtype.MaterialTypeID;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
